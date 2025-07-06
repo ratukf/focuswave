@@ -37,12 +37,4 @@ Built with React, MUI, and localStorage — FocusWave delivers a clean experienc
 
 ## 📁 Project Structure
 
-src/
-├── component/ # Reusable UI components (Timer, Chart, Tasks, etc)
-├── context/ # Theme context (dark/light mode)
-├── hooks/ # Custom hooks (e.g. usePomodoroTimer, useFocusStats)
-├── pages/ # Main app & landing page
-├── store/ # State logic (actions for task/focus)
-├── styles/ # Custom MUI theme
-├── App.tsx # Root app component
-└── main.tsx # Entry point
+<pre lang="md"> ```txt src/ ├── component/ # Reusable UI components (Timer, Chart, Tasks, etc) ├── context/ # Theme context (dark/light mode) ├── hooks/ # Custom hooks (e.g. usePomodoroTimer, useFocusStats) ├── pages/ # Main app & landing page ├── store/ # State logic (actions for task/focus) ├── styles/ # Custom MUI theme ├── App.tsx # Root app component └── main.tsx # Entry point ``` </pre>
