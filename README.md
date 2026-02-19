@@ -24,6 +24,32 @@ A distraction-free productivity web app designed to help you stay focused, manag
 - Framer Motion
 - LocalStorage (for streaks, tasks, sessions)
 
+## Run The Project
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ratukf/focuswave
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open in browser:
+
+```bash
+http://localhost:5173
+```
+
 ## License
 
 MIT
