@@ -1,10 +1,10 @@
 # FocusWave
 
 <p align="center">
-  <img width="1920" height="1193" alt="image" src="https://github.com/user-attachments/assets/0fd9528f-922f-4d68-900c-2d17ecc12b91" />
+  <img width="1920" height="1193" alt="image" src="https://github.com/user-attachments/assets/8c302c58-9439-479d-a11b-2009caa1f4b3" />
 </p>
 <p aling="center">
-  <img width="1920" height="1193" alt="image" src="https://github.com/user-attachments/assets/6ec7432d-920a-4bb7-ad77-aa2e8d7dc2f4" />
+  <img width="1920" height="1193" alt="image" src="https://github.com/user-attachments/assets/39a00c0f-9166-4586-a1e0-b69d1928e3c8" />
 </p>
 
 A distraction-free productivity web app designed to help you stay focused, manage tasks using Pomodoro technique, and build strong daily habits through consistent focus sessions with a clean experience with modern design, streak tracking, and progress visualization.
